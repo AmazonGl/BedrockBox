@@ -1,0 +1,14 @@
+name: BedrockBox
+version: '1.0-SNAPSHOT'
+main: me.amazon.bedrockBox.BedrockBox
+api-version: '1.20'
+authors: [ Amazon ]
+commands:
+  shop:
+  health:
+  healthop:
+  attack:
+  getpickaxe:
+  join:
+  vanish:
+  hp:
