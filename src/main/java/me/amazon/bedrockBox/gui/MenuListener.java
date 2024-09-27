@@ -51,4 +51,9 @@ public class MenuListener implements Listener {
             }
         }
     }
+
+    @EventHandler
+    public void onClickTeamSelectionMenu(InventoryClickEvent event) {
+
+    }
 }

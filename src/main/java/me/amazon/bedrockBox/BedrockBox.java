@@ -1,8 +1,10 @@
 package me.amazon.bedrockBox;
 
 import me.amazon.bedrockBox.commands.game.JoinCMD;
+import me.amazon.bedrockBox.commands.game.SettingsListener;
 import me.amazon.bedrockBox.commands.gui.HealthMenuCMD;
 import me.amazon.bedrockBox.commands.gui.HealthMenuOPCMD;
+import me.amazon.bedrockBox.commands.gui.TeamSelectionCMD;
 import me.amazon.bedrockBox.commands.more.Attack;
 import me.amazon.bedrockBox.commands.more.Health;
 import me.amazon.bedrockBox.commands.more.Vanish;
@@ -29,12 +31,14 @@ public final class BedrockBox extends JavaPlugin{
         new HealthMenuOPCMD().register(this, "healthop");
         new Attack().register(this, "attack");
         new JoinCMD().register(this,"join");
+        new TeamSelectionCMD().register(this,"team");
         new Vanish().register(this,"vanish");
         new Health().register(this,"hp");
         new Pickaxe3x3().register(this, "getpickaxe:");
 
         Bukkit.getPluginManager().registerEvents(new MenuListener(), this);
         Bukkit.getPluginManager().registerEvents(new PickaxeListener(), this);
+        Bukkit.getPluginManager().registerEvents(new SettingsListener(), this);
 
     }
 

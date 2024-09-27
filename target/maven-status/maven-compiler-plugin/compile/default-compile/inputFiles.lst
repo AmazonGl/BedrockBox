@@ -2,9 +2,11 @@ C:\Users\amazo\Documents\Java\Minecraft\BedrockBox\src\main\java\me\amazon\bedro
 C:\Users\amazo\Documents\Java\Minecraft\BedrockBox\src\main\java\me\amazon\bedrockBox\BedrockBox.java
 C:\Users\amazo\Documents\Java\Minecraft\BedrockBox\src\main\java\me\amazon\bedrockBox\commands\AbstractCommand.java
 C:\Users\amazo\Documents\Java\Minecraft\BedrockBox\src\main\java\me\amazon\bedrockBox\commands\game\JoinCMD.java
+C:\Users\amazo\Documents\Java\Minecraft\BedrockBox\src\main\java\me\amazon\bedrockBox\commands\game\SettingsListener.java
 C:\Users\amazo\Documents\Java\Minecraft\BedrockBox\src\main\java\me\amazon\bedrockBox\commands\gui\HealthMenuCMD.java
 C:\Users\amazo\Documents\Java\Minecraft\BedrockBox\src\main\java\me\amazon\bedrockBox\commands\gui\HealthMenuOPCMD.java
 C:\Users\amazo\Documents\Java\Minecraft\BedrockBox\src\main\java\me\amazon\bedrockBox\commands\gui\MenuShopCMD.java
+C:\Users\amazo\Documents\Java\Minecraft\BedrockBox\src\main\java\me\amazon\bedrockBox\commands\gui\TeamSelectionCMD.java
 C:\Users\amazo\Documents\Java\Minecraft\BedrockBox\src\main\java\me\amazon\bedrockBox\commands\more\Attack.java
 C:\Users\amazo\Documents\Java\Minecraft\BedrockBox\src\main\java\me\amazon\bedrockBox\commands\more\Health.java
 C:\Users\amazo\Documents\Java\Minecraft\BedrockBox\src\main\java\me\amazon\bedrockBox\commands\more\Vanish.java
@@ -13,6 +15,7 @@ C:\Users\amazo\Documents\Java\Minecraft\BedrockBox\src\main\java\me\amazon\bedro
 C:\Users\amazo\Documents\Java\Minecraft\BedrockBox\src\main\java\me\amazon\bedrockBox\gui\HealthMenuOP.java
 C:\Users\amazo\Documents\Java\Minecraft\BedrockBox\src\main\java\me\amazon\bedrockBox\gui\MenuListener.java
 C:\Users\amazo\Documents\Java\Minecraft\BedrockBox\src\main\java\me\amazon\bedrockBox\gui\ShopMenu.java
+C:\Users\amazo\Documents\Java\Minecraft\BedrockBox\src\main\java\me\amazon\bedrockBox\gui\TeamSelection.java
 C:\Users\amazo\Documents\Java\Minecraft\BedrockBox\src\main\java\me\amazon\bedrockBox\gui\util\ColorUtil.java
 C:\Users\amazo\Documents\Java\Minecraft\BedrockBox\src\main\java\me\amazon\bedrockBox\gui\util\MenuUtil.java
 C:\Users\amazo\Documents\Java\Minecraft\BedrockBox\src\main\java\me\amazon\bedrockBox\item\Pickaxe3x3.java
